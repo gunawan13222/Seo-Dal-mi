@@ -10,5 +10,11 @@
   <h1>gunawan riho</h1>
   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore aliquid, id beatae ad optio quaerat magnam enim, error at veritatis repellendus quos quibusdam autem minus, quia assumenda quae? Placeat, tempora?</p>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis sapiente voluptates exercitationem cum?</p>
+<ul>
+  <li>gun</li>
+  <li>gun</li>
+  <li>gun</li>
+
+</ul>
 </body>
 </html>
