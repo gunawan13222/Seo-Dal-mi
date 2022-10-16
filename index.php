@@ -8,5 +8,6 @@
 </head>
 <body>
   <h1>gunawan riho</h1>
+  <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore aliquid, id beatae ad optio quaerat magnam enim, error at veritatis repellendus quos quibusdam autem minus, quia assumenda quae? Placeat, tempora?</p>
 </body>
 </html>
